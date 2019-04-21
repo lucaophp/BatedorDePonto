@@ -1,0 +1,10 @@
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe.config
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.pdb
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csprojResolveAssemblyReference.cache
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.Properties.Resources.resources
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csproj.GenerateResource.Cache
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.exe
+c:\users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.pdb
+C:\Users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\bin\Debug\DBCONTROLE.accdb
+C:\Users\lucaophp\documents\visual studio 2013\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.FRM_BatedorPonto.resources
